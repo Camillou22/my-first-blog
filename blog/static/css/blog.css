@@ -8,16 +8,17 @@
     color: #ffffff;
     font-size: 36pt;
     text-decoration: none;
-}
-.taille{
+}.taille{
     height:30px;
     float: right;
-    align-content:center; 
+    align-content:center;
 }
 .content {
     margin-left: 40px;
 }
-
+.comment {
+    margin: 20px 0px 20px 20px;
+}
 h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
 }
