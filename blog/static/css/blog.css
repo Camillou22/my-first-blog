@@ -12,6 +12,7 @@
 .taille{
     height:30px;
     float: right;
+    align-content:center; 
 }
 .content {
     margin-left: 40px;
