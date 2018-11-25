@@ -9,7 +9,10 @@
     font-size: 36pt;
     text-decoration: none;
 }
-
+.taille{
+    height:30px;
+    float: right;
+}
 .content {
     margin-left: 40px;
 }
@@ -17,7 +20,13 @@
 h1, h2, h3, h4 {
     font-family: 'Lobster', cursive;
 }
+.pad{
+    align-content: center;
+}
 
+.spacing {
+    margin-left: 10px;
+}
 .date {
     color: #828282;
 }
